@@ -1,2 +1,0 @@
-# Youngportfolio
-Young Computer Science 
